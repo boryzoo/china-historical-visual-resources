@@ -21,10 +21,12 @@ From late Qing street scenes to the Reform and Opening-up, from county towns in 
 
 Writing fiction, making games, shooting films, seeking art references, or simply wanting to see the China of the past—start here.
 
+**How it is maintained.** The project is maintained by media professionals with two to three decades of experience in content production and editorial work. AI-assisted deep research helps broaden the search; people make the final decisions, including selection, deduplication, description, and checks against original sources where possible.
+
+**Two complementary versions.** GitHub provides the human-readable guide, editorial context, and source notes. A [structured bilingual dataset on Hugging Face](https://huggingface.co/datasets/BreadStudio/china-historical-visual-resources-index) makes the same index easier to search, reuse, and build upon programmatically.
+
 **27 Featured Resources & Themes · 6 Search Paths · English Guides & Material Examples**  
 Continuously updated · Last verified: 2026-09-16
-
-Topic discussion, material organization, and README editing for this project were entirely collaborated on with GPT-6 Astra via Codex; Gemini 3.1 Pro and GPT-5.6 Sol assisted with in-depth research. The final collection went through filtering, deduplication, and partial re-verification at original sites. See [Access and Verification Notes](ACCESS-NOTES.md) for the scope of these checks.
 
 ## First Visit? Start With These Five
 
@@ -326,6 +328,10 @@ With such creative questions in mind, we started looking for Chinese historical 
 As the materials accumulated, we felt that rather than leaving these entries scattered in chat logs and bookmarks, it would be better to string them together: add guides, categorize them by use, make it easier to find references later, and share them with those who have the same needs.
 
 Thus, this list was born. We hope that the next time you need to look for the China of the past, you can take a few less detours.
+
+### Research and Editorial Process
+
+Topic discussion, material organization, and README editing were carried out with GPT-6 Astra via Codex; Gemini 3.1 Pro and GPT-5.6 Sol assisted with in-depth research. The maintainers made the final selection and editorial decisions. Included resources went through filtering, deduplication, and partial re-verification at original sites; see [Access and Verification Notes](ACCESS-NOTES.md) for the scope and limits of these checks.
 
 ## About This List
 
